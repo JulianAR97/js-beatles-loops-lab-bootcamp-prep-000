@@ -29,7 +29,7 @@ function iLoveTheBeatles(num) {
   do {
     var str = 'I love the Beatles!';
     loveManyTimes.push(str);
-  } while (num++ < 15);
+  } while (num++ < 14);
 
-  return loveManyTimes; 
+  return loveManyTimes;
 }
